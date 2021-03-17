@@ -8,7 +8,11 @@ basic CRUD operation is allowed.
 ### Valid Urls
 
 admin/
+
 api/tasks [name='list']
+
 api/update/<int:id>/ [name='update']
+
 api/delete/<int:id>/ [name='delete']
+
 auth/
